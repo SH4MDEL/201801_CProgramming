@@ -1,0 +1,4 @@
+﻿  ex_24_2018182025.c
+c:\users\이승준\desktop\coding\201801_cprogramming\ex_24_2018182025\ex_24_2018182025\ex_24_2018182025.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+  ex_24_2018182025.vcxproj -> C:\Users\이승준\Desktop\Coding\201801_CProgramming\ex_24_2018182025\Debug\ex_24_2018182025.exe
